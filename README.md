@@ -15,6 +15,7 @@ Custome Segmentation using order data of January 2021 to identify the most valua
 
 
 ---------------------------------------- Data Description ----------------------------------------
+
 The data folder contains the raw data as provide from efood for the orders of January 2021 (excluding Athens and Thessaloniki), the efood_frequencies file contains the data extracted using the query sgl/sql_filtered_query.sql.
 
 raw_data (columns)
