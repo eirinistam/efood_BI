@@ -3,6 +3,18 @@ BI Assignment
 
 Custome Segmentation using order data of January 2021 to identify the most valuable target group for a Marketing campaign about Coffee.
 
+
+---------------------------------------- Methodology ----------------------------------------
+
+1) Extract from Bigquery the frequency and the order value of each customer (check the relative queries insql folder, check the relative data in data folder)
+2) Exploratory Data Analysis of the above data with the use of python in order to discocer trends (check the efood_bi.ipynd)
+3) Identify the correct number of clusters using Elbow and Silhuitte methods. The results is 3 clusters.
+4) Apply k-means clustering algo to identify customer clusters. K-means returned: (i)cluster 0: low frequency and high order value; (ii) cluster 1 low frequency and low order value; (iii) cluster 2: high frequency and low order value.
+5)Select the cluster 2 as the most valuable target for the campaign and analyse it.
+6)Optional step: apply the same methodology with featues: frequency, order value and breakfast frequency.
+
+
+---------------------------------------- Data Description ----------------------------------------
 The data folder contains the raw data as provide from efood for the orders of January 2021 (excluding Athens and Thessaloniki), the efood_frequencies file contains the data extracted using the query sgl/sql_filtered_query.sql.
 
 raw_data (columns)
