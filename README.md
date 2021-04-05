@@ -1,6 +1,8 @@
 # efood_BI
 BI Assignment
 
+Custome Segmentation using order data of January 2021 to identify the most valuable target group for a Marketing campaign about Coffee.
+
 The data folder contains the raw data as provide from efood for the orders of January 2021 (excluding Athens and Thessaloniki), the efood_frequencies file contains the data extracted using the query sgl/sql_filtered_query.sql.
 
 raw_data (columns)
