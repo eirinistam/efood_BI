@@ -25,3 +25,10 @@ efood_frequencies (columns)
 - ethnic_frequency : how frequent ordered from ethnic cuisine, ethnic_orders/total_orders
 - sweets_frequency : how frequent ordered from sweets cuisine, sweets_orders/total_orders
 - healthy_frequency : how frequent ordered from healthy cuisine, healthy_orders/total_orders
+
+
+The SQL folder contains the sql queris used to extract the used data.
+
+The efood_presentation.pdf presents the exploratory analysis, the methodology applied for the segmentation, and the reuslts.
+
+The efood_bi.ipynd is the jupyter notebook that includes the analysis code with comments.
