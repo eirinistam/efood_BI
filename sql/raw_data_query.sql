@@ -1,0 +1,1 @@
+SELECT order_id, user_id, submit_dt, cuisine_parent, basket FROM `bi-2019-test.ad_hoc.orders_jan2021`;
