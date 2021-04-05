@@ -1,7 +1,7 @@
 # efood_BI
 BI Assignment
 
-Custome Segmentation using order data of January 2021 to identify the most valuable target group for a Marketing campaign about Coffee.
+Customer Segmentation using order data of January 2021 to identify the most valuable target group for a Marketing campaign about Coffee.
 
 
 ---------------------------------------- Methodology ----------------------------------------
